@@ -133,6 +133,4 @@ def validacao(valor,posicao=0):
     else:
         return 'invalido'
 
-    #print(const, prop, abre, fecha, opUn, opBin, opBinE)
-
 inicio(separandoLinhas)
