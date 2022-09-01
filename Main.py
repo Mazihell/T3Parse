@@ -136,24 +136,3 @@ def validacao(valor,posicao=0):
     #print(const, prop, abre, fecha, opUn, opBin, opBinE)
 
 inicio(separandoLinhas)
-#print(separandoLinhas[1])
-
-# la= '(adrtd)'
-# lb = '((drtd)'
-# lc = '(adrtd'
-# ld = '(adrtd)))'
-# le = '(adrT)'
-# lf = '>T' #<<<<<-------------
-# lg = '(F)' 
-# lh = '(TF' #<<<<<<<<<-------------
-# li = '(TF)'
-# lj = '!(a)'
-# ll = '(!a)'
-# lm = '(!(T))'
-# ln = '(!T))'
-# lo = '(<>(T)))))'
-
-
-
-
-    
